@@ -36,10 +36,11 @@ h3 {
     font-size: 1.5rem;
     color: rgb(0, 0, 0);
     margin-bottom: 20px;
-    font-family: "Lobster", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    text-decoration: underline;
+    font-family: "Playpen Sans", cursive;
+    font-optical-sizing: auto;
+    font-weight:<weight>;
+    font-style:normal;
+    text-decoration:underline;
 }
 
 * {
@@ -55,8 +56,9 @@ h3 {
 
 .as {
 
-    font-family: "Lobster", sans-serif;
-    font-weight: 400;
+    font-family: "Playpen Sans", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
     font-style: normal;
 }
 
